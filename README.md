@@ -39,3 +39,6 @@ Rules: Rules v2 with the rulings of 21 Nov 2026 ($100 start, Charter 6 = Pax 4, 
 
 ## Version 3 (21 Nov 2026)
 - Step 1: everyone procures at the same time; if two airlines want the same 50% pool plane, the one with the lowest cash gets it (tie: fewest engines, then draw lots). Rule book pages updated.
+
+## Version 4 (22 Nov 2026)
+- Charter 7 is now Cargo 2. On a Wing and a Prayer pays $5 per engine for Maintenance (50% off). App calculations and rule book pages updated.
