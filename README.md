@@ -25,8 +25,14 @@ Companion app for the **Props for Profit** board game. It builds the island map,
 
 The app keeps no money totals. Game data is stored on each device only.
 
+## Inviting players
+The start page, the Game Code page and the Turn page (Invite players) show the app address and the Game Code, with **Share invite** and **Copy invite** buttons, so whoever opens the app first can bring everyone else in.
+
 ## Releasing an update
 Change `VERSION` in `sw.js`, upload the changed files, then open the app online twice on each device.
 
 ## Version 1 (21 Nov 2026)
 Rules: Rules v2 with the rulings of 21 Nov 2026 ($100 start, Charter 6 = Pax 4, Charter 7 = Cargo 1, Connecting Flights, Impossible Direct = actual distance flown, Combi Planes #32–#36, draw 2 / may buy 1 / all unbought to the bottom).
+
+## Version 2 (21 Nov 2026)
+- Invite panel with the app address, install steps and the Game Code, plus Share / Copy buttons.
