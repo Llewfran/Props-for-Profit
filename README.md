@@ -61,3 +61,6 @@ Rules: Rules v2 with the rulings of 21 Nov 2026 ($100 start, Charter 6 = Pax 4, 
 - Clear button on the flight, reposition and connecting calculators.
 - On a Wing and a Prayer office art now reads "Pay only $5 per engine for maintenance (50% off)".
 - Rules folder: printable rule book PDF and full rules; download link in the app's Rules tab.
+
+## Version 8 (22 Nov 2026)
+- Company discounts apply only to full-price planes; a 50% pool plane never gets a discount and never counts as your "first" plane. Rules, rule book and app updated.

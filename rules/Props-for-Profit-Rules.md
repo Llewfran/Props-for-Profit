@@ -69,6 +69,8 @@ Shuffle the Company Cards and deal one to each player. Each player takes the mat
 | Plane Lucky Charter | $15 discount on the first **Helo** purchased |
 | Rust Bucket Airline | $3 discount on **each Cargo Plane** purchased |
 
+**Discounts apply to full-price purchases only.** A company discount applies only to a new Plane bought at its full card price (in the draft or from the Plane deck). "First" means the first such full-price purchase of that kind of Plane. A Plane bought from the 50% Discount Pool never gets a company discount and does not use up a "first" discount.
+
 > Card correction needed: the On a Wing and a Prayer card currently reads "Pay only $1 per engine for all services" and must be reprinted.
 
 ### Aircraft Terms
@@ -100,7 +102,7 @@ Each player receives **$100** from the Bank.
 ### Step 1 — Procurement
 - **First turn only:** each player draws 4 Plane cards, keeps 1 and passes the rest left; repeat until all 4 are drafted. Buy any drafted Planes you want and can afford (apply your Special Ability). Shuffle unpurchased Planes back into the Plane deck.
 - **Later turns:** you may draw the top 2 Plane cards. You **may** buy 1 of them (buying is optional). Return **all** unbought cards to the bottom of the Plane deck.
-- **50% Discount Pool:** you may buy a Plane from the pool for ½ its indicated value, rounded **UP** to the nearest $5. It receives a **High Maintenance** card.
+- **50% Discount Pool:** you may buy a Plane from the pool for ½ its indicated value, rounded **UP** to the nearest $5. It receives a **High Maintenance** card. Company discounts do not apply to pool purchases, and a pool purchase does not count as your "first" Plane of any kind.
 - **All airlines procure at the same time.** Buying is never compulsory.
 - **Pool priority:** if two or more airlines want the same Plane from the 50% Discount Pool, the airline with the **lowest cash balance** buys it. If cash is tied, the airline with the fewest engines buys it; if still tied, draw lots.
 - **Extra Tarmac:** in Step 1 of any turn, an airline may buy **Tarmac 4** for **$100** (once per game). It lets the airline own a fourth Plane. Buying it does not stop you buying a Plane in the same Step 1. No buying with an outstanding ERI.
