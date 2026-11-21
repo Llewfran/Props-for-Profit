@@ -64,3 +64,6 @@ Rules: Rules v2 with the rulings of 21 Nov 2026 ($100 start, Charter 6 = Pax 4, 
 
 ## Version 8 (22 Nov 2026)
 - Company discounts apply only to full-price planes; a 50% pool plane never gets a discount and never counts as your "first" plane. Rules, rule book and app updated.
+
+## Version 9 (22 Nov 2026)
+- Poorest airline: from turn 2, an airline with outright the least cash may draw 3 Plane cards and buy up to 2.

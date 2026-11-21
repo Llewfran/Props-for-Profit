@@ -102,6 +102,7 @@ Each player receives **$100** from the Bank.
 ### Step 1 — Procurement
 - **First turn only:** each player draws 4 Plane cards, keeps 1 and passes the rest left; repeat until all 4 are drafted. Buy any drafted Planes you want and can afford (apply your Special Ability). Shuffle unpurchased Planes back into the Plane deck.
 - **Later turns:** you may draw the top 2 Plane cards. You **may** buy 1 of them (buying is optional). Return **all** unbought cards to the bottom of the Plane deck.
+- **Poorest airline (turns 2 onwards):** if one airline has **less cash than every other airline** (no tie) at the start of Step 1, it may instead draw the top **3** Plane cards and buy **up to 2** of them. All unbought cards go to the bottom of the Plane deck. The Tarmac limit and the ERI rule still apply.
 - **50% Discount Pool:** you may buy a Plane from the pool for ½ its indicated value, rounded **UP** to the nearest $5. It receives a **High Maintenance** card. Company discounts do not apply to pool purchases, and a pool purchase does not count as your "first" Plane of any kind.
 - **All airlines procure at the same time.** Buying is never compulsory.
 - **Pool priority:** if two or more airlines want the same Plane from the 50% Discount Pool, the airline with the **lowest cash balance** buys it. If cash is tied, the airline with the fewest engines buys it; if still tied, draw lots.
