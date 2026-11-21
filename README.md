@@ -42,3 +42,6 @@ Rules: Rules v2 with the rulings of 21 Nov 2026 ($100 start, Charter 6 = Pax 4, 
 
 ## Version 4 (22 Nov 2026)
 - Charter 7 is now Cargo 2. On a Wing and a Prayer pays $5 per engine for Maintenance (50% off). App calculations and rule book pages updated.
+
+## Version 5 (22 Nov 2026)
+- Extra Tarmac: an airline may buy Tarmac 4 for $100 in Step 1 (once per game). Fleet page has a fourth Tarmac. Rule book now shows the real Tarmac card art with the plane overlapping it.
