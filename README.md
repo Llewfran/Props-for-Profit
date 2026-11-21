@@ -36,3 +36,6 @@ Rules: Rules v2 with the rulings of 21 Nov 2026 ($100 start, Charter 6 = Pax 4, 
 
 ## Version 2 (21 Nov 2026)
 - Invite panel with the app address, install steps and the Game Code, plus Share / Copy buttons.
+
+## Version 3 (21 Nov 2026)
+- Step 1: everyone procures at the same time; if two airlines want the same 50% pool plane, the one with the lowest cash gets it (tie: fewest engines, then draw lots). Rule book pages updated.
