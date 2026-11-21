@@ -45,3 +45,6 @@ Rules: Rules v2 with the rulings of 21 Nov 2026 ($100 start, Charter 6 = Pax 4, 
 
 ## Version 5 (22 Nov 2026)
 - Extra Tarmac: an airline may buy Tarmac 4 for $100 in Step 1 (once per game). Fleet page has a fourth Tarmac. Rule book now shows the real Tarmac card art with the plane overlapping it.
+
+## Version 6 (22 Nov 2026)
+- Plane cards now show their Ref # in the top-left corner. Rule book shows the real Charter Accepted, Aircraft Booked and Tarmac cards.
