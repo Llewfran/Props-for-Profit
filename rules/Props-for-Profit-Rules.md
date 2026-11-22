@@ -126,7 +126,7 @@ Resolve Charters strictly in order **1 → 7**. For each Charter:
 1. **Reveal** the scheduled operators and booked Planes.
 2. **Cancel?** Any operator may cancel for a **$5** penalty (a mandatory payment).
 3. **Demand Factor** for each remaining operator:
-   - Start with the printed Demand.
+   - Start with the printed Demand. If the column holds **two Demand cards of the same service, add them together** (Freight 1 + Freight 3 = Freight 4; Pax 4 + Pax 6 = Pax 10).
    - Deduct 1 for each competing airline's aircraft.
    - **Pax only — comfort modifiers**, applied only when your service is genuinely better than a competitor's: More engines **+1**; Non-stop instead of hopping **+1**. Equal service = no modifier.
    - **Freight: no modifiers** (engines, speed and non-stop give no advantage).
@@ -184,7 +184,7 @@ Variable Charters **1–5 only**, working left → right.
 
 For each column:
 - **Fulfilled** (any Demand card face-down): clear the whole Charter.
-- **Not fulfilled, one Demand card:** add a **second Demand card** from the Demand deck to the column. The Charter stays.
+- **Not fulfilled, one Demand card:** add a **second Demand card** from the Demand deck to the column. The Charter stays. If both cards are the **same service, their demands add up** (Freight 1 + Freight 3 = Freight 4), so a Charter that waits a turn becomes more attractive. If one is Pax and one Freight, the Charter offers both and flying either fulfils it.
 - **Not fulfilled, already two Demand cards:** clear the whole Charter.
 
 Clearing: Location cards go to the Location discard pile; Demand cards go to the Demand discard pile.
@@ -317,9 +317,9 @@ In Step 1, an Opportunity card you draw may be taken **into your hand instead of
 | 1 Procurement | Turn 1: draft 4. Later: draw 2, may buy 1 (outright poorest: draw 3, buy up to 2); unbought to the bottom. 50% pool: ½ price rounded UP + High Maintenance; lowest cash has priority. Tarmac 4 for $100 once. |
 | 2 Scheduling | Secret: Charter Accepted # + Aircraft Booked # (Tarmac #). One Charter per Plane; one Plane per airline per Charter (two for a Connecting Flight). |
 | 3 Reposition | Move Planes; pay expense; no income. |
-| 4 Flights (1 → 7) | Reveal, cancel ($5)? Demand Factor = printed − 1 per rival (Pax: +1 more engines, +1 non-stop vs hopping); min 1, max printed, max capacity. Income = Demand Factor × Rate × Charter Distance. |
+| 4 Flights (1 → 7) | Reveal, cancel ($5)? Demand Factor = printed (same-service cards added) − 1 per rival (Pax: +1 more engines, +1 non-stop vs hopping); min 1, max printed, max capacity. Income = Demand Factor × Rate × Charter Distance. |
 | 5 Maintenance | Marker on 4: $10 per engine ($5 On a Wing and a Prayer). |
-| 6 Charter Update | Fulfilled → clear; 1 card unflown → add a 2nd; 2 cards unflown → clear. Refill. First new Demand card's compass moves the Cloud. |
+| 6 Charter Update | Fulfilled → clear; 1 card unflown → add a 2nd (same service: the two add up); 2 cards unflown → clear. Refill. First new Demand card's compass moves the Cloud. |
 | 7 Aircraft Sale | Sell ½ price rounded DOWN (not High Maintenance; scrap for $0). Repay ERI $120. No sales in the final turn. Move the turn marker. |
 
 - **Rates:** Pax FW $2, Helo $3; Freight FW $4, Helo $5.
