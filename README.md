@@ -68,5 +68,6 @@ Rules: Rules v2 with the rulings of 21 Nov 2026 ($100 start, Charter 6 = Pax 4, 
 ## Version 9 (22 Nov 2026)
 - Poorest airline: from turn 2, an airline with outright the least cash may draw 3 Plane cards and buy up to 2.
 
-## Advanced Options (Version 10)
+## Advanced Options (Version 10–11)
 Turn on **Advanced Options** when you start or join a game (or on the Fleet screen) to add Plane #37 Amphibian and #38 Flying Boat to the calculators. The Flying Boat's sea hops, one-rival Pax bonus and Pax + Freight flights are calculated for you. Rules: `rules/Props-for-Profit-Advanced-Options.md`.
+Version 11 adds the five **Opportunity cards** (Fleet screen), an Exclusive Contract tick in the calculators, the Bank Promotion $100 ERI reminder in Step 7, and the card list in the Rules tab.

@@ -65,7 +65,9 @@ When drawn in Step 1, a player may **use** an Opportunity card **instead of buyi
 | **Spare Parts Sale** | Pay $20 to remove the High Maintenance card from one of your planes. The plane is considered **"as new"**: normal maintenance, and it can be sold again to the 50% pool. |
 | **Exclusive Contract** | Keep this card. Play it once, in a later turn, with your Charter Accepted card. On that charter your Demand Factor is **unadjusted**: the printed demand shown, still limited by your plane's capacity and abilities. Discard it after use. |
 | **Bank of Pacifica Promotion** | Repay your ERI for $100 instead of $120 (any Step 7). Keep it until used. |
-| **Retired Pilot's Plane** | Buy any plane from the 50% pool at its pool price **without** the High Maintenance card. The plane is considered **"as new"**. |
+| **Retired Pilot's Plane** | Buy any plane from the 50% pool at its pool price **without** the High Maintenance card. The plane is considered **"as new"**. No company discount. |
+
+**In the app (Version 11):** with Advanced Options on, the Fleet screen lists the five cards. Insurance Payout and Spare Parts Sale are used on a recorded High Maintenance plane (Spare Parts sets it back to Normal); Retired Pilot's Plane adds the pool plane to a free Tarmac as new; Exclusive Contract and Bank Promotion are marked "I hold this card". A held Exclusive Contract adds a "Play my Exclusive Contract" tick to the Flight and Connecting calculators; a held Bank Promotion changes the Step 7 ERI reminder to $100. The Rules tab lists all five cards.
 
 ---
 
