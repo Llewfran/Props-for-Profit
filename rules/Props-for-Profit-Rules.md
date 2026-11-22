@@ -11,7 +11,7 @@ This version merges the original Rules doc, Player Reference Sides A & B, the co
 - 18 Map Cards (A–T, no I or O): 2 Mainland (A Aurelia City, B Breakwater Bay) + 16 grid cards
 - 21 Location Cards: A×1, B×1, C×4, D×2, E×2, F×1, G×1, H×2, J×1, K×1, L×1, M×1, N×2, P×1
 - 75 Demand Cards, each with a compass letter (N/E/S/W): Pax 2×8, Pax 4×16, Pax 6×10, Pax 8×4, Pax 10×8, Pax 12×4, Freight 1×12, Freight 2×12, Freight 3×1
-- 2 Permanent Demand Cards (no compass) with coloured backs: Pax 4 (Charter 6) and Cargo 2 (Charter 7)
+- 2 Permanent Demand Cards (no compass) with coloured backs: Pax 4 (Charter 6) and Cargo 3 (Charter 7)
 - 7 Charter Required Cards (1–7) and 3 row signs: Departure, Arrival, Lounge / Freight
 - 36 Plane Cards (show Ref #, Type, Pax # and/or Freight #, Range and value; engines are counted from the artwork). Five are Combi Planes (#32–#36).
 - 6 Company Cards with matching Flight Schedule sets (Charter Accepted 1–7, Aircraft Booked 1–4)
@@ -49,7 +49,7 @@ Place the seven Charter Required cards face-up, left to right: **1 2 3 4 5 6 7**
 |---|---|---|
 | Departure | A – Aurelia City | B – Breakwater Bay |
 | Arrival | C – Crown Island | C – Crown Island |
-| Lounge / Freight | Pax 4 | Cargo 2 |
+| Lounge / Freight | Pax 4 | Cargo 3 |
 
 **Variable Charters (1–5):**
 1. Shuffle the Location deck face-down. Draw 5 and place one in each Departure space, Charter 1 → 5.
