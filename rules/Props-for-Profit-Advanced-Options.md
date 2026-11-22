@@ -42,8 +42,8 @@ Card art: A1–A7. A Headline card is placed in its column like a normal Demand 
 | **Coronation Festival** | A1 | Pax 3 | All Pax Demand Factors increase by 1, including this charter (still limited by the plane's capacity). |
 | **Customs Crackdown** | A2 | Freight 2 | Landings on Freight flights cost $3. |
 | **Government Mail Contract** | A3 | Freight 2 | Every airline that flies this charter with Freight 2 collects a flat **$30** (no Demand Factor, no competition penalty). Flight costs still apply. |
-| **Fuel Price Spike** | A4 | Freight 2 | The Maintenance Factor of every flight increases by 1 (FW 1 → 2, Helo 2 → 3, High Maintenance +1 on top). |
-| **Fuel Subsidy** | A5 | Pax 6 | The Maintenance Factor of every flight decreases by 1, minimum 0 (FW 1 → 0: only the $1 per landing is paid). |
+| **Fuel Price Spike** | A4 | Freight 2 | The Maintenance Factor of **every plane** (fixed wing and helicopter, High Maintenance included) increases by 1 on every flight: FW 1 → 2, Helo 2 → 3, High Maintenance FW 2 → 3, High Maintenance Helo 3 → 4. |
+| **Fuel Subsidy** | A5 | Pax 6 | The Maintenance Factor of **every plane** (fixed wing and helicopter, High Maintenance included) decreases by 1 on every flight, minimum 0: FW 1 → 0 (only the landing fee is paid), Helo 2 → 1, High Maintenance FW 2 → 1, High Maintenance Helo 3 → 2. |
 | **Royal Visit to Crown Island** | A6 | Pax 10 | Charter 6 (A → C) is Pax 8. |
 | **Strike!** | A7 | Pax 2 | Planes cannot reposition: skip Step 3. |
 
