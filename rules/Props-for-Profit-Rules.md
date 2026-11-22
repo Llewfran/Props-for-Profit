@@ -350,6 +350,53 @@ In Step 1, an Opportunity card you draw may be taken **into your hand instead of
 
 ---
 
+## Plane Register
+
+| # | Type | Pax | Freight | Range | Engines | Price | End value | Counts as · notes |
+|---|---|---|---|---|---|---|---|---|
+| 1 | H-L | 3 | – | 3 | 1 | $30 | $5 | Helo, Single |
+| 2 | H-L | – | 1 | 3 | 1 | $20 | $5 | Helo, Single, Cargo |
+| 3 | H-L | – | 1 | 3 | 1 | $20 | $5 | Helo, Single, Cargo |
+| 4 | H-L | 3 | – | 3 | 1 | $30 | $5 | Helo, Single |
+| 5 | H-L | 3 | – | 3 | 1 | $30 | $5 | Helo, Single |
+| 6 | H-L | – | 2 | 5 | 2 | $55 | $10 | Helo, Twin, Cargo · *2 engines by rule* |
+| 7 | FW-L | 3 | – | 4 | 1 | $25 | $5 | Single |
+| 8 | FW-L | 2 | – | 3 | 1 | $15 | $0 | Single |
+| 9 | FW-L | 5 | – | 4 | 1 | $35 | $5 | Single |
+| 10 | FW-L | 5 | – | 4 | 1 | $35 | $5 | Single |
+| 11 | FW-L | 6 | – | 4 | 1 | $45 | $10 | Single |
+| 12 | FW-L | 6 | – | 6 | 1 | $70 | $15 | Single |
+| 13 | FW-L | 6 | – | 6 | 1 | $70 | $15 | Single |
+| 14 | FW-L | 5 | – | 5 | 1 | $50 | $10 | Single |
+| 15 | FW-L | – | 2 | 6 | 1 | $50 | $10 | Single, Cargo |
+| 16 | FW-L | – | 2 | 6 | 1 | $45 | $10 | Single, Cargo |
+| 17 | FW-L | – | 3 | 6 | 2 | $75 | $15 | Twin, Cargo |
+| 18 | FW-L | 8 | – | 8 | 2 | $125 | $30 | Twin |
+| 19 | FW-L | 8 | – | 8 | 2 | $125 | $30 | Twin |
+| 20 | FW-L | 8 | – | 8 | 2 | $125 | $30 | Twin |
+| 21 | FW-L | 10 | – | 6 | 2 | $115 | $25 | Twin |
+| 22 | FW-L | – | 3 | 6 | 2 | $70 | $15 | Twin, Cargo |
+| 23 | FW-L | – | 3 | 6 | 2 | $70 | $15 | Twin, Cargo |
+| 24 | FW-L | 10 | – | 6 | 2 | $115 | $25 | Twin |
+| 25 | FW-L | 10 | – | 10 | 2 | $200 | $50 | Twin |
+| 26 | FW-L | 10 | – | 10 | 2 | $200 | $50 | Twin |
+| 27 | FW-L | 10 | – | 10 | 2 | $185 | $45 | Twin |
+| 28 | FW-L | 10 | – | 10 | 2 | $185 | $45 | Twin |
+| 29 | FW-L | – | 3 | 12 | 4 | $165 | $40 | Four-engine, Cargo |
+| 30 | FW-L | – | 3 | 12 | 4 | $165 | $40 | Four-engine, Cargo |
+| 31 | FW-L | 12 | – | 14 | 4 | $315 | $75 | Four-engine · *Only standard plane that can carry Pax 12* |
+| 32 | FW-F | 6 | 2 | 6 | 2 | $90 | $20 | Twin, Float, Cargo · *Combi: Pax or Freight* |
+| 33 | FW-F | 4 | 1 | 5 | 1 | $60 | $15 | Single, Float, Cargo · *Combi: Pax or Freight* |
+| 34 | FW-F | 4 | 1 | 5 | 1 | $60 | $15 | Single, Float, Cargo · *Combi: Pax or Freight* |
+| 35 | H-F | 2 | 1 | 6 | 1 | $70 | $15 | Helo, Single, Float, Cargo · *Combi: Pax or Freight* |
+| 36 | H-F | 6 | 2 | 4 | 1 | $85 | $20 | Helo, Single, Float, Cargo · *Combi: Pax or Freight* |
+| 37 | FW-L + FW-F | 8 | – | 5 | 2 | $165 | $40 | Twin, Float · *Advanced Options only. Amphibian: lands at FW-L and FW-F* |
+| 38 | FW-F | 8 | 2 | 6 | 2 | $165 | $40 | Twin, Float, Cargo · *Advanced Options only. Flying Boat: sea hop; Pax ignores 1st rival; Pax + Freight together* |
+
+**Counts as** is used by the Company Special Abilities (Single = 1 engine, Twin = 2, Helo = any helicopter, Float = FW-F or H-F, Cargo = any plane with a Freight value). **End value** = $5 per full $20 of price (High Maintenance $0).
+
+---
+
 ## Open items [TBD]
 1. Connecting Flight income: lower Plane Type Factor and smaller capacity of the two Planes (playtest assumption) — confirm.
 2. Impossible Direct is judged from the access icons only (not Range or the Cloud) — confirm.
