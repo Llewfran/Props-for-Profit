@@ -47,6 +47,8 @@ Card art: A1–A7. A Headline card is placed in its column like a normal Demand 
 | **Royal Visit to Crown Island** | A6 | Pax 10 | Charter 6 (A → C) is Pax 8. |
 | **Strike!** | A7 | Pax 2 | Planes cannot reposition: skip Step 3. |
 
+**Fuel cards and Step 5:** the Fuel cards change only the Maintenance Factor used in flight costs (charters and repositioning). Scheduled Maintenance in Step 5 is unchanged: $10 per engine ($5 for On a Wing and a Prayer).
+
 **Effects combine:** Fuel Price Spike and Fuel Subsidy together cancel out. Customs Crackdown changes the landing fee; the Fuel cards change the Maintenance Factor, so they apply together.
 
 ---
