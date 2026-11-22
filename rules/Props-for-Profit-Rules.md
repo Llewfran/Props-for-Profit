@@ -10,7 +10,7 @@ This version merges the original Rules doc, Player Reference Sides A & B, the co
 
 - 18 Map Cards (A–T, no I or O): 2 Mainland (A Aurelia City, B Breakwater Bay) + 16 grid cards
 - 21 Location Cards: A×1, B×1, C×4, D×2, E×2, F×1, G×1, H×2, J×1, K×1, L×1, M×1, N×2, P×1
-- 75 Demand Cards, each with a compass letter (N/E/S/W): Pax 2×8, Pax 4×16, Pax 6×10, Pax 8×4, Pax 10×8, Pax 12×4, Freight 1×12, Freight 2×12, Freight 3×1
+- 75 Demand Cards, each with a compass letter (N/E/S/W): Pax 2×8, Pax 4×12, Pax 6×10, Pax 8×4, Pax 10×8, Pax 12×4, Freight 1×12, Freight 2×12, Freight 3×5
 - 2 Permanent Demand Cards (no compass) with coloured backs: Pax 4 (Charter 6) and Cargo 3 (Charter 7)
 - 7 Charter Required Cards (1–7) and 3 row signs: Departure, Arrival, Lounge / Freight
 - 36 Plane Cards (show Ref #, Type, Pax # and/or Freight #, Range and value; engines are counted from the artwork). Five are Combi Planes (#32–#36).
@@ -58,7 +58,7 @@ Place the seven Charter Required cards face-up, left to right: **1 2 3 4 5 6 7**
 3. Choose game length by using **55, 65 or 75 Demand cards** (for 55 or 65, shuffle all 75 and take that many at random). Shuffle them face-down as the Demand deck. Draw 5 and place one face-up in each Lounge / Freight space, Charter 1 → 5.
 
 ### 5. Assign the Airlines
-Shuffle the Company Cards and deal one to each player. Each player takes the matching set of 12 Flight Schedule Cards (Charter Accepted 1–7, Aircraft Booked 1–4).
+Shuffle the Company Cards and deal one to each player. Each player takes the matching set of 11 Flight Schedule Cards (Charter Accepted 1–7, Aircraft Booked 1–4).
 
 | Airline | Special Ability |
 |---|---|

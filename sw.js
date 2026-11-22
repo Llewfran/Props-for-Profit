@@ -1,5 +1,5 @@
 /* Props for Profit Companion: offline cache. Change VERSION when you update the app so devices pick it up. */
-const VERSION='pfp-companion-v16g';
+const VERSION='pfp-companion-v16h';
 const FILES=['./','./index.html','./manifest.webmanifest','./icon-192.png','./icon-512.png','./icon-maskable-512.png','./apple-touch-icon.png'];
 // Fetch fresh copies (bypass the browser's own cache) when a new version installs.
 self.addEventListener('install',e=>{e.waitUntil(caches.open(VERSION).then(c=>Promise.all(FILES.map(u=>fetch(new Request(u,{cache:'reload'})).then(r=>{if(!r.ok)throw new Error(u);return c.put(u,r)})))).then(()=>self.skipWaiting()))});
