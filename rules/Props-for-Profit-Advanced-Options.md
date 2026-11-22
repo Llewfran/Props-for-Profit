@@ -31,53 +31,50 @@
 
 ## 2. Headline Demand cards (Demand deck, triggered in Step 6)
 
-A Headline card is a normal Demand card (Pax or Freight value and compass) with a headline banner. It's placed in its column as usual, and its event starts when it is placed.
+Card art: A1–A7. A Headline card is placed in its column like a normal Demand card, with its Pax or Freight value. Its event starts when it is placed and lasts **while the card is displayed**: until its column is removed, because the charter was fulfilled or expired.
 
-Two durations are used:
-- **"Next turn":** the event applies during the following turn only.
-- **"While this column stands":** the event lasts until the card's column is removed, either because the charter is fulfilled or because it expires.
+**Deck:** build the Demand deck at the size chosen for the game (55, 65 or 75), then **remove 7 random cards** from it and **shuffle in the 7 Headlines**. The deck size stays the same; which standard cards are missing is unknown.
 
-| Card | Printed demand | Duration | Effect |
+**No compass:** Headline cards have no compass. Without the app, if a Headline is the **first** new Demand card drawn in Step 6, the Cloud **does not move** that turn. (With the app, the Cloud follows the Game Code path as usual.)
+
+| Card | Art | Printed demand | Effect while displayed |
 |---|---|---|---|
-| **Coronation Festival** | Pax 4 | While this column stands | Every Pax charter gets **+1 Pax** printed demand. |
-| **Customs Crackdown** | Freight 2 | While this column stands | Landings on **Freight** flights cost **$3** instead of $1. |
-| **Fuel Price Spike** | Freight 1 | Next turn | Every landing costs $2 instead of $1. |
-| **Fuel Subsidy** | Pax 6 | Next turn | Landings are free. |
-| **Royal Visit to Crown Island** | Pax 10 | Next turn | Charter 6 is Pax 8. |
-| **Government Mail Contract** | Freight 2 | This charter | **Every** successful airline whose plane can carry Freight 2 collects a flat **$30** (no Demand Factor, no competition penalty, no income calculation; flight costs are still paid). |
-| **Mechanics' Strike** | Pax 2 | Next turn | No repositioning (Step 3 is skipped). |
+| **Coronation Festival** | A1 | Pax 3 | All Pax Demand Factors increase by 1, including this charter (still limited by the plane's capacity). |
+| **Customs Crackdown** | A2 | Freight 2 | Landings on Freight flights cost $3. |
+| **Government Mail Contract** | A3 | Freight 2 | Every airline that flies this charter with Freight 2 collects a flat **$30** (no Demand Factor, no competition penalty). Flight costs still apply. |
+| **Fuel Price Spike** | A4 | Freight 2 | The Maintenance Factor of every flight increases by 1 (FW 1 → 2, Helo 2 → 3, High Maintenance +1 on top). |
+| **Fuel Subsidy** | A5 | Pax 6 | The Maintenance Factor of every flight decreases by 1, minimum 0 (FW 1 → 0: only the $1 per landing is paid). |
+| **Royal Visit to Crown Island** | A6 | Pax 10 | Charter 6 (A → C) is Pax 8. |
+| **Strike!** | A7 | Pax 2 | Planes cannot reposition: skip Step 3. |
 
-**Deck size:** each Headline card replaces a normal Demand card of the same value (values spread across the standard Pax and Freight range), so the deck stays at 75 cards with an unchanged demand mix.
-
-**Landing-cost effects combine:** Fuel Spike +$1, Fuel Subsidy −$1, Customs Crackdown +$2 on Freight landings; add them up, minimum $0. Spike and Subsidy together cancel out.
+**Effects combine:** Fuel Price Spike and Fuel Subsidy together cancel out. Customs Crackdown changes the landing fee; the Fuel cards change the Maintenance Factor, so they apply together.
 
 ---
 
 ## 3. Opportunity cards (Plane deck, triggered in Step 1)
 
-When drawn in Step 1, a player may **use** an Opportunity card **instead of buying a plane** that turn, or put it on the bottom of the deck with the other unbought cards. Exclusive Contract and Bank of Pacifica Promotion are kept until used. A used card leaves the game.
+Card art: O-1–O-5. In Step 1 an Opportunity card is **drawn into your hand instead of procuring a plane that turn**; otherwise it goes to the bottom of the deck with the other unbought cards. Pay Out and Exclusive Contract are kept until used; the others are played immediately. A used card leaves the game.
+
+**ERI:** a player holding an ERI still draws in Step 1. They cannot buy a plane, but may take an Opportunity card (this is how Bank Promotion helps).
 
 **Turn 1 draft:** if an Opportunity card is dealt into a draft hand, set it aside and draw a replacement. After the draft, the set-aside cards and the returned draft cards are shuffled back into the Plane deck.
 
-| Card | Effect |
-|---|---|
-| **Insurance Payout** | Collect $30 from the Bank for one of your High Maintenance planes. |
-| **Spare Parts Sale** | Pay $20 to remove the High Maintenance card from one of your planes. The plane is considered **"as new"**: normal maintenance, and it can be sold again to the 50% pool. |
-| **Exclusive Contract** | Keep this card. Play it once, in a later turn, with your Charter Accepted card. On that charter your Demand Factor is **unadjusted**: the printed demand shown, still limited by your plane's capacity and abilities. Discard it after use. |
-| **Bank of Pacifica Promotion** | Repay your ERI for $100 instead of $120 (any Step 7). Keep it until used. |
-| **Retired Pilot's Plane** | Buy any plane from the 50% pool at its pool price **without** the High Maintenance card. The plane is considered **"as new"**. No company discount. |
-
-**In the app (Version 11):** with Advanced Options on, the Fleet screen lists the five cards. Insurance Payout and Spare Parts Sale are used on a recorded High Maintenance plane (Spare Parts sets it back to Normal); Retired Pilot's Plane adds the pool plane to a free Tarmac as new; Exclusive Contract and Bank Promotion are marked "I hold this card". A held Exclusive Contract adds a "Play my Exclusive Contract" tick to the Flight and Connecting calculators; a held Bank Promotion changes the Step 7 ERI reminder to $100. The Rules tab lists all five cards.
+| Card | Art | Badge | Effect |
+|---|---|---|---|
+| **Pay Out** | O-1 | +$30 | Keep until you want to dispose of a High Maintenance plane. When you "sell" it in Step 7 (normally scrapped for $0), receive **$30**. Not in the final turn (no sales). |
+| **Spare Part Sale** | O-2 | $20 | Play immediately. Pay $20 to remove the High Maintenance card from a plane. The plane is "as new": normal costs, and it can be sold to the 50% pool again. |
+| **Exclusive Contract** | O-3 | $0 | Keep until needed. Play with your Charter Accepted card to counter all competition on one charter, Pax or Freight: your Demand Factor is not reduced by rivals (still limited by capacity). |
+| **Bank Promotion** | O-4 | $100 | Play immediately. Repay any ERI for only $100. |
+| **Retired Pilot Plane** | O-5 | $0 | Play immediately. Buy any plane from the 50% Second Hand pool at its pool price **without** taking a High Maintenance card. It is "as new". No company discount. |
 
 ---
 
-## 4. Rulings (22 Nov 2026)
-1. Headline demand values spread across the standard Pax and Freight range (table above).
-2. Mail Contract is Freight 2 and pays a flat $30 to every successful airline that can carry it.
-3. Exclusive Contract is limited by plane capacity and abilities.
-4. Fuel and Customs effects combine and can cancel each other.
-5. Opportunity cards dealt in the Turn 1 draft are set aside and replaced; the Plane deck is reshuffled after the draft.
-6. Players with an ERI skip Step 1, so they can't take Opportunity cards (simulator assumption).
+## 4. Rulings
+1. Mail Contract pays a flat $30 to every airline that flies it with Freight 2 (22 Nov).
+2. Exclusive Contract is limited by plane capacity (22 Nov).
+3. Opportunity cards dealt in the Turn 1 draft are set aside and replaced; the Plane deck is reshuffled after the draft (22 Nov).
+4. **Card values are as printed on the final art (22 Nov, afternoon):** all Headline effects last while the card is displayed; Fuel cards change the Maintenance Factor, not the landing fee; Coronation Festival is Pax 3; Fuel Price Spike is Freight 2; Pay Out is kept and used when scrapping a High Maintenance plane; Bank Promotion is played immediately.
+5. Headlines join the deck in place of 7 random cards, and have no compass (22 Nov).
 
 ## 5. Later impacts (not done yet)
 - **Simulator:** add #37, #38, sea-hop routing, the Headline and Opportunity cards; run 2,000 six-player, 75-card games to check plane dominance, money supply ($4,000 box) and catch-up.
@@ -155,3 +152,21 @@ When drawn in Step 1, a player may **use** an Opportunity card **instead of buyi
 - **Amphibian:** bought in ~4% of games (was 10–14% at Range 7), ~$45–48 net per flight, owners win 53–60%. Weaker and rarer, still a sound buy.
 - **Clipper:** bought in 9–14% of games, owners win 59–60%.
 - Everything else unchanged: winner $619–640, ERI games 23.5–27.6%, no bankruptcies, turn-8 leader wins 55.5–58.1% (base 60.0–61.9%). One game of 4,000 peaked at $5,175 total cash; the "Bank never runs out" rule covers it.
+
+### Re-run with the card values as printed (22 Nov, afternoon)
+Settings: everything as printed on the final art (sections 1–3), Headlines in place of 7 random cards, no compass on Headlines. 2,000 six-player, 75-card games per bot type.
+
+| | Base (competitive / random) | Expansion (competitive / random) |
+|---|---|---|
+| Winner's final cash | $618 / $644 | $584 / $607 |
+| Average peak total cash | $1,868 / $1,844 | $1,793 / $1,750 |
+| Highest peak total cash | $3,612 / $3,791 | $3,976 / $4,160 |
+| Games with an ERI | 27.5% / 23.7% | 30.4% / 28.2% |
+| Bankruptcies | 0 / 0 | 0 / 0 |
+| Turn-8 leader wins | 60.0% / 61.9% | 56.2% / 59.5% |
+
+- The expansion now takes a little money out of the game (winner about $35 lower, about 3–4 more games in 100 need an ERI). The main cause is Fuel Price Spike doubling fixed-wing flight costs while it is displayed.
+- Each Headline stays displayed for about 1.2–1.5 turns per game.
+- Amphibian #37: bought in 3–5% of games, owners win 50–52%. Flying Boat #38: bought in 9–12%, owners win 56–64%.
+- Opportunity cards: Exclusive Contract played in 72–80% of games; Retired Pilot Plane used in 76–87%; Pay Out cashed in 30–36%; Spare Part Sale used in 27–34%; Bank Promotion used in only 4–5% (it only helps a player who holds an ERI when they draw it).
+- Companies: all within about 2 points of the base game; Plane Lucky stays lowest (~10–11%).
