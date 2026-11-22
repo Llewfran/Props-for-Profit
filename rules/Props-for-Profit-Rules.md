@@ -224,7 +224,7 @@ Refill cleared columns, left → right:
 When the last Demand card is allocated to the Charter Board during Step 6, finish that turn; the **following turn is the final turn**. If the Demand deck runs out before all columns can be refilled, leave those spaces empty. Play the final turn normally (Steps 1–7, but no Planes may be sold); then the game ends.
 
 ## Winning
-Most Money wins. Tie: most engines in the fleet wins. An airline with an outstanding ERI cannot win.
+**Final score = your money + the value of the Planes you still own.** Each Plane counts **25% of its printed price, rounded DOWN to the nearest $5** (a $70 Plane counts $15; a $45 Plane counts $10). High Maintenance Planes count $0. The highest score wins. Tie: most engines in the fleet wins. An airline with an outstanding ERI cannot win.
 
 ---
 
@@ -325,7 +325,7 @@ In Step 1, an Opportunity card you draw may be taken **into your hand instead of
 - **Rates:** Pax FW $2, Helo $3; Freight FW $4, Helo $5.
 - **Expense:** engines × Maintenance Factor (FW 1, Helo 2, +1 High Maintenance) × distance flown + $1 per landing.
 - **ERI:** +$100, owe $120; no buying; second failure = bankrupt; cannot win while outstanding.
-- **End:** last Demand card placed → one final turn. Most money wins; tie → most engines.
+- **End:** last Demand card placed → one final turn. Score = money + 25% of each Plane still owned (rounded down to $5; High Maintenance $0). Highest score wins; tie → most engines.
 
 ### Advanced Options
 | Card | Type | Key rule |
