@@ -18,6 +18,7 @@
 - It can land at any airport with an FW-L or FW-F icon (the card shows both icons). It can't land at helicopter-only locations. Range 5, as printed on the card: its strength is where it can land and hop, not distance.
 - Classes: Twin, Float. It is **not** a Cargo Plane (no Freight value), so Rust Bucket does not apply.
 - Discounts that can apply: Hope Floats (first Float), Against All Odds (first Twin).
+- **Impossible Direct (designer ruling, 22 Nov):** still judged on the standard planes only (#1–#36); #37 does not cancel it. If #37 can reach such a charter direct (hops allowed), it flies it as a normal charter at the Charter Distance; other airlines may still connect and earn the distance they fly.
 
 **Flying Boat (#38)**
 - **Pax 8 and/or Freight 2**, Twin, Range 6, **$165** (final, 22 Nov). Earlier versions tested: Freight 4 / 4 engines / Range 14 / $330; Pax 6 / Freight 2 / Range 8 / $200; Pax 10 / Freight 3 / Range 6 / $225 (none bought); Pax 10 / Freight 2 / $185 and $205 with no competition penalty (too strong).

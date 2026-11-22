@@ -251,6 +251,7 @@ Once you know the standard game, add the Advanced Options: two new aircraft, sev
 | 38 | Flying Boat | FW-F | 8 | 2 | 6 | 2 | $165 |
 
 - **#37 Amphibian** lands wherever FW-L or FW-F Planes can (it cannot use helicopter-only locations). Twin and Float Plane.
+- **Impossible Direct with #37 in play:** Impossible Direct is still judged on the **standard Planes only** (#1–#36). If #37 can reach such a Charter direct (hops allowed), it flies it as a normal Charter and earns the **Charter Distance**. Other airlines may still fly it as a Connecting Flight and earn the distance they fly.
 - **#38 Flying Boat:**
   - **Open-water hop:** may land and refuel on an open-sea card (Q, R, S, T) in the middle of a route; never under the Cloud, and never to start or end a Charter. Each sea landing costs the normal landing fee.
   - **Demand Factor bonus:** on Pax, ignore the **first** rival airline. Freight competition is normal.
@@ -330,7 +331,7 @@ In Step 1, an Opportunity card you draw may be taken **into your hand instead of
 ### Advanced Options
 | Card | Type | Key rule |
 |---|---|---|
-| #37 Amphibian | Plane, $165 | FW-L + FW-F, Pax 8, Range 5, 2 engines |
+| #37 Amphibian | Plane, $165 | FW-L + FW-F, Pax 8, Range 5, 2 engines; Impossible Direct still judged on standard Planes, #37 direct earns the Charter Distance |
 | #38 Flying Boat | Plane, $165 | FW-F, Pax 8 / Freight 2, Range 6, 2 engines; sea hop; Pax ignores 1st rival; Pax + Freight on one flight, expense once |
 | Coronation Festival | Headline, Pax 3 | Pax Demand Factors +1 |
 | Customs Crackdown | Headline, Freight 2 | Freight landings $3 |
