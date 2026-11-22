@@ -2,7 +2,7 @@
 
 *Fly. Haul. Hustle.*
 
-This version merges the original Rules doc, Player Reference Sides A & B, the company cards and the designer's rulings of 21 Nov 2026. Items marked **[TBD]** are still open.
+This version merges the original Rules doc, Player Reference Sides A & B, the company cards and the designer's rulings of 21–22 Nov 2026, and adds the Advanced Options and a Quick Reference. Items marked **[TBD]** are still open.
 
 ---
 
@@ -225,6 +225,128 @@ When the last Demand card is allocated to the Charter Board during Step 6, finis
 
 ## Winning
 Most Money wins. Tie: most engines in the fleet wins. An airline with an outstanding ERI cannot win.
+
+---
+
+## Advanced Options
+
+Once you know the standard game, add the Advanced Options: two new aircraft, seven **Headline** cards and five **Opportunity** cards. Nothing new is drawn: every event arrives on a card players already draw. All other rules are unchanged.
+
+### Advanced setup
+| Cards | How many | Goes into |
+|---|---|---|
+| #37 Amphibian, #38 Flying Boat | 2 | Plane deck |
+| Opportunity cards (O-1 to O-5) | 5 | Plane deck |
+| Headline cards (A1 to A7) | 7 | Demand deck |
+
+1. **Plane deck:** shuffle in #37, #38 and the five Opportunity cards (43 cards).
+2. **Demand deck:** make the deck at the chosen size (55, 65 or 75), then **remove 7 random cards** without looking at them and shuffle in the **7 Headlines**. The deck size is unchanged.
+3. **Turn 1 draft:** an Opportunity card dealt into a draft hand is set aside and replaced. After the draft, shuffle the set-aside cards and the returned Planes back into the Plane deck.
+4. **App:** choose **Advanced Options** on the New Game or Join screen; every player must choose the same.
+
+### New aircraft
+| Ref # | Name | Type | Pax | Freight | Range | Engines | Price |
+|---|---|---|---|---|---|---|---|
+| 37 | Amphibian "Goose" | FW-L + FW-F | 8 | – | 5 | 2 | $165 |
+| 38 | Flying Boat | FW-F | 8 | 2 | 6 | 2 | $165 |
+
+- **#37 Amphibian** lands wherever FW-L or FW-F Planes can (it cannot use helicopter-only locations). Twin and Float Plane.
+- **#38 Flying Boat:**
+  - **Open-water hop:** may land and refuel on an open-sea card (Q, R, S, T) in the middle of a route; never under the Cloud, and never to start or end a Charter. Each sea landing costs the normal landing fee.
+  - **Demand Factor bonus:** on Pax, ignore the **first** rival airline. Freight competition is normal.
+  - **Pax AND Freight together:** on a Charter with both a Pax and a Freight Demand card, it carries both on one flight and earns both incomes (each from its own card and rate). The Operating Expense is paid **once**.
+  - Twin, Float Plane and Cargo Plane.
+- In a **Connecting Flight**, either new Plane follows the normal Connecting Flight rules (no Flying Boat bonuses).
+
+**Example:** Charter 3, Aurelia City → Driftwood (Charter Distance 11), shows Pax 6 and Freight 2; one rival flies Pax and one flies Freight. The Flying Boat hops A → R (sea, 5) → D (6). Expense 2 × 1 × 11 + $2 = $24. Pax: first rival ignored → Demand Factor 6 → 6 × $2 × 11 = $132. Freight: Demand Factor 1 → 1 × $4 × 11 = $44. Net **+$152**.
+
+### Headline cards (Demand deck, Step 6)
+A Headline is placed in its column like any Demand card, with its own Pax or Freight value, and can be flown like any Charter. Its effect starts when it is placed and lasts **while the card is displayed** (until its column is cleared, fulfilled or expired).
+
+- **No compass:** without the app, if a Headline is the **first** new Demand card in Step 6, the Cloud **does not move** this turn. (With the app, the Cloud follows the Game Code path as usual.)
+- **Effects add up:** Fuel Price Spike and Fuel Subsidy together cancel out.
+
+| Card | Demand | Effect while displayed |
+|---|---|---|
+| Coronation Festival (A1) | Pax 3 | All Pax Demand Factors +1, including this Charter (capacity still limits). |
+| Customs Crackdown (A2) | Freight 2 | Landings on Freight flights cost $3. |
+| Government Mail Contract (A3) | Freight 2 | Every airline that flies this Charter with Freight 2 collects a flat $30; no Demand Factor, no competition. Flight costs still apply. |
+| Fuel Price Spike (A4) | Freight 2 | Maintenance Factor +1 for every Plane on every flight. |
+| Fuel Subsidy (A5) | Pax 6 | Maintenance Factor −1 for every Plane on every flight, minimum 0. |
+| Royal Visit to Crown Island (A6) | Pax 10 | Charter 6 (A → C) is Pax 8. |
+| Strike! (A7) | Pax 2 | Planes cannot reposition: skip Step 3. |
+
+**Fuel cards** change the Maintenance Factor of every Plane (fixed wing and helicopter, High Maintenance included) for every flight, including repositioning. Scheduled Maintenance in Step 5 is **not** affected ($10 per engine; $5 for On a Wing and a Prayer).
+
+| Maintenance Factor | Normal | Fuel Spike | Fuel Subsidy | Both |
+|---|---|---|---|---|
+| Fixed wing | 1 | 2 | 0 | 1 |
+| Fixed wing, High Maintenance | 2 | 3 | 1 | 2 |
+| Helicopter | 2 | 3 | 1 | 2 |
+| Helicopter, High Maintenance | 3 | 4 | 2 | 3 |
+
+### Opportunity cards (Plane deck, Step 1)
+In Step 1, an Opportunity card you draw may be taken **into your hand instead of procuring a Plane this turn**; otherwise it goes to the bottom of the deck with your other unbought cards. A used card leaves the game.
+
+- **Kept:** Pay Out and Exclusive Contract stay in your hand until used. The others are played immediately.
+- **ERI:** a player holding an ERI still draws in Step 1. They cannot buy a Plane, but may take an Opportunity card.
+
+| Card | When | Effect |
+|---|---|---|
+| Pay Out (O-1) | Keep | When you dispose of a High Maintenance Plane in Step 7 (normally scrapped for $0), receive $30. Not in the final turn. |
+| Spare Part Sale (O-2) | Now | Pay $20 to remove the High Maintenance card from a Plane. It is "as new". |
+| Exclusive Contract (O-3) | Keep | Play with your Charter Accepted card: on that Charter, Pax or Freight, rivals do not reduce your Demand Factor (capacity still limits). |
+| Bank Promotion (O-4) | Now | Repay any ERI for only $100. |
+| Retired Pilot Plane (O-5) | Now | Buy any Plane from the 50% pool at its pool price without taking a High Maintenance card. It is "as new". No company discount; not a "first" Plane; needs a free Tarmac. |
+
+"As new" = normal costs, and the Plane may later be sold to the 50% pool.
+
+### Advanced Options in the app
+- **Switch:** Advanced Options on the New Game, Join or Fleet screen. The Rules tab then shows an Advanced Options summary.
+- **Aircraft:** #37 and #38 appear in every plane picker. Routes for #38 may include a sea hop ("land & refuel"). For #38 choose Pax, Freight or **Both**; Both takes the two printed Demands and the rivals on each, applies the Pax bonus and counts the expense once.
+- **Opportunity cards (Fleet screen):** mark Pay Out and Exclusive Contract as held. Pay Out offers "scrap #X for $30" on High Maintenance Planes. A held Exclusive Contract adds a "Play my Exclusive Contract" tick to the Flight and Connecting calculators. Spare Part Sale sets a Plane back to Normal; Bank Promotion and Retired Pilot Plane are recorded with one tap.
+- **Headlines:** the calculators do not apply Headline effects; adjust the Maintenance Factor (Fuel), landing fee (Customs), Pax Demand Factor (Coronation) or income (Mail Contract) yourself.
+
+---
+
+## Quick Reference
+
+### Standard game
+| Step | What happens |
+|---|---|
+| 1 Procurement | Turn 1: draft 4. Later: draw 2, may buy 1 (outright poorest: draw 3, buy up to 2); unbought to the bottom. 50% pool: ½ price rounded UP + High Maintenance; lowest cash has priority. Tarmac 4 for $100 once. |
+| 2 Scheduling | Secret: Charter Accepted # + Aircraft Booked # (Tarmac #). One Charter per Plane; one Plane per airline per Charter (two for a Connecting Flight). |
+| 3 Reposition | Move Planes; pay expense; no income. |
+| 4 Flights (1 → 7) | Reveal, cancel ($5)? Demand Factor = printed − 1 per rival (Pax: +1 more engines, +1 non-stop vs hopping); min 1, max printed, max capacity. Income = Demand Factor × Rate × Charter Distance. |
+| 5 Maintenance | Marker on 4: $10 per engine ($5 On a Wing and a Prayer). |
+| 6 Charter Update | Fulfilled → clear; 1 card unflown → add a 2nd; 2 cards unflown → clear. Refill. First new Demand card's compass moves the Cloud. |
+| 7 Aircraft Sale | Sell ½ price rounded DOWN (not High Maintenance; scrap for $0). Repay ERI $120. No sales in the final turn. Move the turn marker. |
+
+- **Rates:** Pax FW $2, Helo $3; Freight FW $4, Helo $5.
+- **Expense:** engines × Maintenance Factor (FW 1, Helo 2, +1 High Maintenance) × distance flown + $1 per landing.
+- **ERI:** +$100, owe $120; no buying; second failure = bankrupt; cannot win while outstanding.
+- **End:** last Demand card placed → one final turn. Most money wins; tie → most engines.
+
+### Advanced Options
+| Card | Type | Key rule |
+|---|---|---|
+| #37 Amphibian | Plane, $165 | FW-L + FW-F, Pax 8, Range 5, 2 engines |
+| #38 Flying Boat | Plane, $165 | FW-F, Pax 8 / Freight 2, Range 6, 2 engines; sea hop; Pax ignores 1st rival; Pax + Freight on one flight, expense once |
+| Coronation Festival | Headline, Pax 3 | Pax Demand Factors +1 |
+| Customs Crackdown | Headline, Freight 2 | Freight landings $3 |
+| Gov. Mail Contract | Headline, Freight 2 | Flat $30 each with Freight 2, no competition |
+| Fuel Price Spike | Headline, Freight 2 | Maintenance Factor +1, every Plane |
+| Fuel Subsidy | Headline, Pax 6 | Maintenance Factor −1, min 0 |
+| Royal Visit | Headline, Pax 10 | Charter 6 is Pax 8 |
+| Strike! | Headline, Pax 2 | No repositioning |
+| Pay Out | Opportunity, keep | +$30 when disposing of a High Maintenance Plane |
+| Spare Part Sale | Opportunity, now | $20: remove High Maintenance |
+| Exclusive Contract | Opportunity, keep | One Charter: rivals don't reduce your Demand Factor |
+| Bank Promotion | Opportunity, now | Repay ERI for $100 |
+| Retired Pilot Plane | Opportunity, now | Pool Plane at pool price, no High Maintenance |
+
+- Demand deck at chosen size − 7 random cards + 7 Headlines. Headlines last while displayed and have no compass (first new card a Headline → the Cloud stays, without the app).
+- Opportunity cards replace procuring a Plane that turn; ERI holders still draw and may take one; used cards leave the game.
 
 ---
 
