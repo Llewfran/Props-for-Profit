@@ -71,3 +71,7 @@ Rules: Rules v2 with the rulings of 21 Nov 2026 ($100 start, Charter 6 = Pax 4, 
 ## Advanced Options (Version 10–11)
 Turn on **Advanced Options** when you start or join a game (or on the Fleet screen) to add Plane #37 Amphibian and #38 Flying Boat to the calculators. The Flying Boat's sea hops, one-rival Pax bonus and Pax + Freight flights are calculated for you. Rules: `rules/Props-for-Profit-Advanced-Options.md`.
 Version 11 adds the five **Opportunity cards** (Fleet screen), an Exclusive Contract tick in the calculators, the Bank Promotion $100 ERI reminder in Step 7, and the card list in the Rules tab.
+
+## Version 17 (24 Nov 2026)
+- **Route map:** the Flight calculator (charter and reposition) and the Connecting calculator now draw the route on the island map: Departure (green), hubs (gold), Arrival (red), the leg distances, and the Cloud.
+- **Range warning and hub choice:** if the plane cannot fly the trip non-stop (distance, including any detour round the Cloud, is more than its Range), the app warns the player and asks them to choose a hub. Only hubs the plane can land at and reach are offered, with their distances; a ✓ marks hubs from which the Arrival is in Range. Add more hubs if needed, undo, or tap **Suggested** for the cheapest route. The app says if a cheaper route exists.
